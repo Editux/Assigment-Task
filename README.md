@@ -12,7 +12,7 @@ Spring-boot 2.4.5
 ## Install
 
 ```
-
+https://github.com/Editux/Assigment-Task.git
 ```
 
 Author: Edita Komarova
